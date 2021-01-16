@@ -318,16 +318,17 @@ Visual Novels can be found in #resources for almost any platform. Ask the server
 !!! note
     You should not expect to comprehend this guide the first time you read it. Take your time and read it as much times as you can until you finally get it.
 
-## Related Channels (WIP)
-About output (talking): #speaking-japanese
-You CAN learn Japanese from anime: #anime-japanese
-"Learning" kanji: #learning-kanji
-How to use Japanese subtitles: #japanese-subtitles-guide
-How to comfortably get into reading: #getting-into-reading
-The Monolingual Transition: #monolingual-guide
-Massive Japanese FAQ, whatever stupid question you have WILL be answered here: #japanese-faq
-The Best Resources Channel on Discord: #resources
-Ask any questions you may have about this guide!: #immersion-questions
+## Discord
+[Join us on Discord :fontawesome-brands-discord:](https://discord.gg/AqBd4KXktM){: .md-button .md-button--primary }  
+About output (talking): #speaking-japanese  
+You CAN learn Japanese from anime: #anime-japanese  
+"Learning" kanji: #learning-kanji  
+How to use Japanese subtitles: #japanese-subtitles-guide  
+How to comfortably get into reading: #getting-into-reading  
+The Monolingual Transition: #monolingual-guide  
+Massive Japanese FAQ, whatever stupid question you have WILL be answered here: #japanese-faq  
+The Best Resources Channel on Discord: #resources  
+Ask any questions you may have about this guide!: #immersion-questions  
 
 
 ## Sources
@@ -337,6 +338,3 @@ Ask any questions you may have about this guide!: #immersion-questions
 4. [Tae Kim - Japanese Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)
 5. [Itazuraneko - main guide](https://itazuraneko.neocities.org/learn/guide.html)
 6. [Input Hypothesis - Wikipedia](https://en.wikipedia.org/wiki/Input_hypothesis)
-
-Shin-Japanese Guide is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-
