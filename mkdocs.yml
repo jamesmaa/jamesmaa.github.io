@@ -6,7 +6,7 @@ theme:
   custom_dir: overrides
   palette:
     scheme: default
-    primary: purple
+    primary: deep purple
   favicon: img/immersion_chan.png
   logo: img/immersion_chan_transparent.png
 markdown_extensions:
